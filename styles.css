@@ -1,0 +1,62 @@
+body {
+	background-color: #eeeeee;
+	background-image: url("res/wood.jpg");
+	text-align: center;
+	font-family: 'Cormorant Upright'; font-size: 22px;
+}
+
+.bubble, h1, h2, h3 {
+	background-color: #eeeeee;
+	font-family: 'Cormorant Upright';
+	opacity: 0.95;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.responsive {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+#navbar-placeholder {
+  height: 90px;
+}
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 20px;
+  z-index: 9999;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+#navbar a:hover {
+  text-decoration: underline;
+  border-radius: 20px;
+  background-color: #444444;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
