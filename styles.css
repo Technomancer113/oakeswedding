@@ -15,7 +15,9 @@ body {
 }
 
 .kiss {
-  max-width: 70px;
+  max-width: 50px;
+  width: auto;
+  height: auto;
 }
 
 .responsive {
