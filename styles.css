@@ -15,9 +15,14 @@ body {
 }
 
 .kiss {
-  max-width: 50px;
+  max-width: 100%;
   width: auto;
   height: auto;
+}
+
+.ImageContainerKiss {
+  max-width: 100%;
+  width: 600px;
 }
 
 .responsive {
