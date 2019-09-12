@@ -15,7 +15,7 @@ body {
 }
 
 .kiss {
-  max-width: 600px;
+  max-width: 600dp;
   width: auto;
   height: auto;
 }
