@@ -14,15 +14,17 @@ body {
 	padding-bottom: 10px;
 }
 
-Img.kiss {
-  max-width: 100%;
+.kiss {
+  max-width: 600px;
   width: auto;
   height: auto;
 }
 
+/*
 .ImageContainerKiss {
   width: 600px;
 }
+*/
 
 .responsive {
   max-width: 100%;
