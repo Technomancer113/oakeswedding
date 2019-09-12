@@ -14,6 +14,10 @@ body {
 	padding-bottom: 10px;
 }
 
+.kiss {
+  max-width: 70dp;
+}
+
 .responsive {
   max-width: 100%;
   width: auto;
