@@ -15,13 +15,9 @@ body {
 }
 
 .kiss {
-  max-width: 600dp;
+  max-width: 60%;
   width: auto;
   height: auto;
-}
-
-.ImageContainerKiss {
-  width: 100%;
 }
 
 .responsive {
