@@ -20,11 +20,9 @@ body {
   height: auto;
 }
 
-/*
 .ImageContainerKiss {
-  width: 600px;
+  width: 100%;
 }
-*/
 
 .responsive {
   max-width: 100%;
