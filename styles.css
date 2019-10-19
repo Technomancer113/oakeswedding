@@ -14,6 +14,10 @@ body {
 	padding-bottom: 10px;
 }
 
+.names_header {
+  color: #99062A;
+}
+
 .kiss {
   max-width: 60%;
   width: auto;
